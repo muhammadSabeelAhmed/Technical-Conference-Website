@@ -2,6 +2,9 @@
 
 This is a web application for a 1-day technical conference focused on Google Cloud Technologies. It features a schedule of 8 talks, 1 lunch break, and allows users to search by talk title, speaker name, and category.
 
+for step by step guide follow
+https://codelabs.developers.google.com/building-with-google-antigravity#3
+
 ## Tech Stack
 - **Backend:** Python, Flask
 - **Frontend:** HTML5, CSS3 (Vanilla, Custom Variables, Flexbox), JavaScript (Vanilla)
